@@ -2,8 +2,6 @@
 
 This is a port of [perezd/node-murmurhash](https://github.com/perezd/node-murmurhash) which only includes murmurhash v3 for as few bytes as possible.
 
-> Murmurhash v3
-
 ## Install
 
 ```
