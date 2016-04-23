@@ -1,4 +1,4 @@
-# murmurhash-v-3 [![Build Status](https://travis-ci.org/ajoslin/murmurhash-v-3.svg?branch=master)](https://travis-ci.org/ajoslin/murmurhash-v-3)
+# murmurhash-v3 [![Build Status](https://travis-ci.org/ajoslin/murmurhash-v3.svg?branch=master)](https://travis-ci.org/ajoslin/murmurhash-v3)
 
 This is a port of [perezd/node-murmurhash](https://github.com/perezd/node-murmurhash) which only includes murmurhash v3 for as few bytes as possible.
 
