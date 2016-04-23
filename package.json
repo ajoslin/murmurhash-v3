@@ -1,0 +1,27 @@
+{
+  "name": "murmurhash-v3",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Murmurhash v3",
+  "license": "MIT",
+  "repository": "ajoslin/murmurhash-v-3",
+  "author": {
+    "name": "Andrew Joslin",
+    "email": "andrewtjoslin@gmail.com",
+    "url": "ajoslin.com"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "murmurhash",
+    "v3"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^5.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}

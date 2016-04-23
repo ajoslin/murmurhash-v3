@@ -1,0 +1,21 @@
+# murmurhash-v-3 [![Build Status](https://travis-ci.org/ajoslin/murmurhash-v-3.svg?branch=master)](https://travis-ci.org/ajoslin/murmurhash-v-3)
+
+This is a port of [perezd/node-murmurhash](https://github.com/perezd/node-murmurhash) which only includes murmurhash v3 for as few bytes as possible.
+
+> Murmurhash v3
+
+## Install
+
+```
+$ npm install --save murmurhash-v3
+```
+
+## Usage
+
+```js
+var hash = require('murmurhash-v3')
+
+hash('string input') // => numeric hash
+```
+
+MIT © [Andrew Joslin](http://ajoslin.com)
