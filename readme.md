@@ -16,4 +16,4 @@ var hash = require('murmurhash-v3')
 hash('string input') // => numeric hash
 ```
 
-MIT © [Andrew Joslin](http://ajoslin.com)
+MIT © Gary Court, Derek Perez, Andrew Joslin
