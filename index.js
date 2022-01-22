@@ -1,6 +1,7 @@
 'use strict'
 
 module.exports = MurmurHashV3
+export default MurmurHashV3
 
 /**
   * JS Implementation of MurmurHash3 (r136) (as of May 20, 2011)
